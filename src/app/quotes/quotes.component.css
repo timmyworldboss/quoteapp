@@ -1,5 +1,5 @@
 h1{
-  font-family: 'Special Elite', cursive;
+  font-family: 'lucida console', cursive;
   color: white;
   text-align: center;
   font-weight: bolder;
@@ -7,10 +7,10 @@ h1{
   padding-top: 2%;
 }
 h4{
-  font-family: 'Architects Daughter', cursive;
+  font-family: 'lucida console', cursive;
 }
 span{
-  font-family: 'Architects Daughter', cursive;
+  font-family: 'Lucida Console', cursive;
 }
 .overlay{
   background-color:rgba(0, 225, 255, 0.301);
@@ -24,7 +24,7 @@ span{
   padding-bottom: 5%;
 }
 #name{
-  color:rgb(43, 214, 0);
+  color:rgb(0, 21, 214);
   font-weight: 700;
 }
 .all-cards{
@@ -45,7 +45,7 @@ span{
   font-size: 14px;
 }
 #datecolor{
-  color: green;
+  color: rgb(128, 0, 0);
   font-weight: 700;
 }
 .card-text{
