@@ -4,24 +4,16 @@
   font-weight: 570;
 }
 label{
-  color: white;
+  color: rgb(197, 21, 21);
   font-weight: 600;
 }
 hr{
   width: 50%;
   height: 2px;
-  background-color: green;
+  background-color: rgb(187, 16, 230);
 }
 .heading{
-  color: white;
+  color: rgb(73, 206, 21);
   text-align: center;
   padding-top: 2%;
-}
-.container-fluid{
-  background-color: rgba(0, 0, 0, 0.374);
-  border-radius: 4px;
-  padding-bottom: 5%;
-  box-shadow: 2px 2px 3px 2px black;
-  font-family: 'Lucida Console', cursive;
-  margin-bottom: 5%;
 }
