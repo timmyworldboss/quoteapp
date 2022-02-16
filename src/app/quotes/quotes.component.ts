@@ -7,7 +7,7 @@ import { Quote } from '../quote';
   styleUrls: ['./quotes.component.css']
 })
 export class QuotesComponent implements OnInit {
-  title = 'welcome to tech quotes';
+  title = 'WELCOME TO TIMMY QUOTES APP';
   quotes:Quote[] = [
     new Quote (1,'Tommy','Experience','What Does Not Kill you makes you Stronger.','gregory issacs', new Date(2022,2,12),0,0),
     new Quote (2,'Mary Jane','mindsate…','Madness is like gravity all it needs is a little Push.','The joker',new Date(2022,2,14),0,0),
