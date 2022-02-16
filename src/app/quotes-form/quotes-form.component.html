@@ -24,7 +24,7 @@
         </div>
       </div>
       <div class="form-group">
-        <label for="description">Quote</label>
+        <label for="description">Add Your Quote</label>
         <textarea class="form-control" id="quote" rows="2" required [(ngModel)]="quoted.quote" name="quote" #quote='ngModel'></textarea>
         <div *ngIf="quote.invalid && quote.dirty" class="alert alert-danger">
           <div *ngIf="quote.errors.required">
